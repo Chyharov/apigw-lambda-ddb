@@ -7,7 +7,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/example/RankedUpdateFunction.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30276947-467d-4db9-8847-f09f45d5d958" name="Default Changelist" comment="fix to deploy ver" />
+    <list default="true" id="30276947-467d-4db9-8847-f09f45d5d958" name="Default Changelist" comment="fix to deploy ver">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ConnectionEndFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ConnectionEndFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/InviteFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/InviteFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/utils/CacheUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/utils/CacheUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/utils/DDBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/utils/DDBUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +43,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -178,7 +186,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "last_opened_file_path": "D:/Project/tic-tac-toe/Java homework",
-    "settings.editor.selected.configurable": "settings.space"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -292,9 +300,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="final api version" />
     <MESSAGE value="fix to deploy ver" />
     <option name="LAST_COMMIT_MESSAGE" value="fix to deploy ver" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/corretto 11/jdk11.0.15_9/lib/src.zip!/java.base/java/lang/Integer.java">
